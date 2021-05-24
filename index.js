@@ -1,3 +1,3 @@
 module.exports = function(value) {
-  return typeof value === 'undefined' || a === null;
+  return typeof value === 'undefined' || value === null;
 }
